@@ -1,2 +1,3 @@
-# fgno-gdx
-A repo for playing with libGDX.
+# fgno-tornadofx
+A Repo for playing with gdx.
+Friday night crew.
