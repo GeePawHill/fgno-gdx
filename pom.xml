@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Tutorial</artifactId>
+    <artifactId>fgno-gdx</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>Pong</name>
+    <name>Friday Geek's Night Out -- Game</name>
 
     <properties>
         <maven.compiler.source>18</maven.compiler.source>
